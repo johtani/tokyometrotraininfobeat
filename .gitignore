@@ -1,0 +1,8 @@
+/tokyometrotraininfobeat.yml
+/.idea
+/build
+
+.DS_Store
+/tokyometrotraininfobeat
+/tokyometrotraininfobeat.test
+*.pyc

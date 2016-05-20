@@ -1,0 +1,14 @@
+################### Tokyometrotraininfobeat Configuration Example #########################
+
+############################# Tokyometrotraininfobeat ######################################
+
+tokyometrotraininfobeat:
+  # Defines how often an event is sent to the output
+  period: 10m
+
+  # Access Token
+  token: XXXXXXXXXXX
+
+  # Base Uri
+  uri: "https://api.tokyometroapp.jp/api/v2/datapoints?rdf:type=odpt:TrainInformation&acl:consumerKey="
+

@@ -1,0 +1,5 @@
+= Tokyometrotraininfobeat Docs
+
+Welcome to the Tokyometrotraininfobeat documentation.
+
+
